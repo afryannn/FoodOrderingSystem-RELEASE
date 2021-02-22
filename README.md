@@ -1,6 +1,9 @@
 # testing
 
-<img src="https://github.com/afryannn/FoodOrderingSystem-RELEASE/blob/master/public/images/food1.png" width="20%">
+<img src="https://github.com/afryannn/FoodOrderingSystem-RELEASE/blob/master/public/images/food1.png" width="40%">
+<img src="https://github.com/afryannn/FoodOrderingSystem-RELEASE/blob/master/public/images/food2.png" width="40%">
+<img src="https://github.com/afryannn/FoodOrderingSystem-RELEASE/blob/master/public/images/food3.png" width="40%">
+
 
 ## Project setup
 ```
